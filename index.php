@@ -8,8 +8,6 @@
 <body>
     <?php
     echo "Buna ziua";
-    
-    
     ?>
 </body>
 </html>
